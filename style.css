@@ -1,0 +1,120 @@
+.col{
+    text-align: center;
+    background-color: royalblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    height: 40px;
+    font-size: 35px;
+    font-weight: bold;
+    
+}
+.fac{
+    text-align: center;
+    background-color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.wing{
+    text-align: center;
+    background-color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.first{
+    display: inline-block;
+    background-color: yellow;
+    color: blue;
+    border: 1px solid black;
+    height: 60px;
+    width: 200px;
+    line-height: 60px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.second{
+    display: inline-block;
+    background-color: yellow;
+    color: blue;
+    border: 1px solid black;
+    width: 200px;
+    min-height: 50px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    padding: 5px 40px;
+    font-weight: bold;
+    line-height: 17px;
+    
+}
+.third{
+    display: inline-block;
+    background-color: yellow;
+    color: blue;
+    border: 1px solid black;
+    width: 200px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.one{
+    display: inline-block;
+    background-color: lightskyblue;
+    color: red;
+    border: 1px solid black;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    font-weight: bold;
+    line-height: 180px;
+}
+.two{
+    display: inline-block;
+    background-color: lightskyblue;
+    border: 1px solid  black;
+    width: 280px;
+    height: 150px;
+    line-height: 60px;
+    min-height: 50px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.three{
+    display: inline-block;
+    background-color: lightskyblue;
+    border: 1px solid black;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    font-weight: bold;
+    line-height: 60px;
+}
+.hello{
+    margin: auto;
+    border: 1px solid black;
+    width: 1000px;
+    font-weight: bold;
+    background-color: green;
+}
+.end{
+    margin: auto;
+    border: 1px solid black;
+    width: 1000px;
+    font-weight: bold;
+    background-color: orange;
+}
+.text{
+    text-align: center;
+}

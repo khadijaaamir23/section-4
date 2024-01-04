@@ -102,14 +102,12 @@
     line-height: 60px;
 }
 .hello{
-    margin: auto;
     border: 1px solid black;
     width: 1000px;
     font-weight: bold;
     background-color: green;
 }
 .end{
-    margin: auto;
     border: 1px solid black;
     width: 1000px;
     font-weight: bold;
